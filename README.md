@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI – CS50 AI Project 0
+# Tic-Tac-Toe AI 
 
 An unbeatable Tic-Tac-Toe (Jogo da Velha) game built with Python using the **Minimax algorithm**. This project implements an AI that plays the game optimally.
 
