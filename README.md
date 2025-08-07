@@ -19,4 +19,6 @@ This AI uses the Minimax decision rule to play perfect Tic-Tac-Toe. The algorith
    git clone https://github.com/yourusername/tictactoe-ai.git
    cd tictactoe-ai
 
+---
+
 Developed with 💻 by Julia Cohen
